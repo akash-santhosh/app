@@ -47,7 +47,7 @@ function BooksCard({ title, Type, of, time, Image }) {
 							</Typography>
 						</CardContent>
 					</CardActionArea>
-					<CardActions>
+					<CardActions class={{root: classes.root}}>
 						<Button size='large' variant='outlined'>
 							{time}
 						</Button>
