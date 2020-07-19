@@ -38,7 +38,7 @@ class App extends React.Component {
 	  <video
 		autoplay="true"
 		muted="true"
-		width='940'
+		width='950'
 		height='500'
 		preload='true'
 		loop='true'
