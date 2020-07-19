@@ -36,8 +36,6 @@ class App extends React.Component {
       <CssBaseline />
       <Typography style={{ marginTop: 50 }}>
 	  <video
-	    align="center" 
-	    justify="center"
 		autoplay="true"
 		muted="true"
 		width='1200'
