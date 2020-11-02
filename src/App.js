@@ -47,7 +47,7 @@ class App extends React.Component {
         controlsList="nodownload"
       >
         <source
-          src="https://chakolas.s3.amazonaws.com/ChakolasPavilion.mp4"
+          src="https://storage.googleapis.com/chakolas/Chakolas%20Pavilion.mp4"
           type="video/mp4"
         />
       </video>
